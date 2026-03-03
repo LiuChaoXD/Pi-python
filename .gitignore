@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+logs/
+.DS_Store
+
+# Virtual environments
+.venv
+venv/
+env/
+.env
+
+
+# Testing and Type Checking
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Session Data
+.session/
+./workspace
+.logs
+.pi/sessions
